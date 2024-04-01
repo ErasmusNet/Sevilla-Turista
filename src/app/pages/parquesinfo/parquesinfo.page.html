@@ -1,0 +1,47 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-icon (click)="salir()" slot="start" name="arrow-back-circle-outline" color="primary"></ion-icon>
+    <ion-title>{{local_data.titulo}}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+
+  <ion-text style="text-align: center;" color="primary">
+    <h1 style="font-weight:bolder;">{{local_data.titulo}}</h1>
+  </ion-text>
+
+  <ion-text style="text-align: center;" color="success">
+    <h4 style= "padding: 5px;">{{local_data.subtitulo}}</h4>
+  </ion-text>
+
+
+  
+     <ion-img style="margin-top: 10%; padding: 5%;" src={{local_data.imagen_principal}}></ion-img>
+  
+
+  <p style="margin-top: 10%;">{{local_data.descripcion}}</p>
+
+
+    <ion-img style="margin-top: 10%; padding: 5%;" src={{local_data.imagen_secundaria}}></ion-img>
+  
+
+  <ion-text style="margin-top: 10%; padding-left: 25px; font-weight: bold;"
+    color="primary">{{local_data.ubicacion}}</ion-text>
+
+
+    <ion-item style="margin-top: 30px;">
+      <iframe [src]="local_data.googlemaps | safe" width="100%" height="300" style="border:0;" allowfullscreen="true" loading="lazy">
+      </iframe>
+    </ion-item>
+
+
+  <ion-button style="margin-top: 10%;" href={{local_data.redirectTo}} expand="block">
+    Más información
+  </ion-button>
+
+
+</ion-content>
+
+<app-footer></app-footer>

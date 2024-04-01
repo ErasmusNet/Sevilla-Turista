@@ -1,0 +1,42 @@
+<ion-header #header class="ion-no-border" translucent>
+  <ion-toolbar id="header" translucent>
+    <ion-buttons slot="start" defaultHref="/"
+    color="primary" mode="ios">
+      <ion-back-button defaultHref="/" text=""
+      color="primary" mode="ios"></ion-back-button>
+    </ion-buttons>
+    <ion-title color="primary">
+        Puntos de interés
+    </ion-title>
+  </ion-toolbar>
+    
+</ion-header>
+<ion-searchbar #search
+  mode="ios"
+  placeholder ="Busca un lugar nuevo"
+  inputmode="text"
+  (keyup)="onSearchChange($event)"
+  [debounce]="250"
+  animated>
+</ion-searchbar>
+
+<ion-content #content mode="ios" scrollEvents="true" (ionScroll)='onContentScroll($event)'>
+  
+    <ion-list *ngFor="let c of poi">
+      <a (click)="sendData(c)">
+        <ion-card > 
+          <ion-img src="{{c.imagen_principal}}"></ion-img>
+          <ion-icon slot="start" name="add"></ion-icon>
+          <ion-card-title style="margin-top: 2%;">
+          <ion-text color="success"> {{c.titulo}}</ion-text>
+          </ion-card-title>
+          <ion-card-subtitle style="margin-top: 2%;">
+            <ion-text color="primary">{{c.subtitulo}}</ion-text>
+          </ion-card-subtitle>
+          
+        </ion-card>  
+      </a>
+    </ion-list>
+  
+    </ion-content>
+  

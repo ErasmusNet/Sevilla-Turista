@@ -1,0 +1,123 @@
+[
+    {
+        "titulo": "Plaza Virgen de los Reyes",
+        "subtitulo": "Plaza histórica con vistas a la catedral de Sevilla",
+        "descripcion": "La Plaza Virgen de los Reyes es una plaza histórica ubicada en el centro de Sevilla, junto a la catedral. La plaza es conocida por sus impresionantes vistas a la catedral y por su arquitectura histórica, incluyendo la iglesia de El Salvador. También es un lugar popular para eventos y festivales, como la Feria de Abril.",
+        "ubicacion": "Centro de Sevilla",
+        "imagen_principal": "assets/images/poi/plaza-virgen-de-los-reyes 1.jpg",
+        "imagen_secundaria": "assets/images/poi/plaza-virgen-de-los-reyes 2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.1598788954598!2d-5.994619323569764!3d37.38605113445602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1a22385611%3A0x9452e4d34a0454c0!2sPl.%20Virgen%20de%20los%20Reyes%2C%2041004%20Sevilla!5e0!3m2!1ses!2ses!4v1683100729945!5m2!1ses!2ses",
+        "redirectTo": "https://sevillando.net/plaza-virgen-reyes/"
+    },
+    {
+        "titulo": "Catedral de Santa María de la Sede",
+        "subtitulo": "La catedral gótica más grande del mundo",
+        "descripcion": "La Catedral de Santa María de la Sede es uno de los monumentos más impresionantes de Sevilla. Es una catedral gótica construida en el siglo XV y es considerada la catedral gótica más grande del mundo. La catedral también alberga la tumba de Cristóbal Colón y cuenta con una impresionante colección de arte y objetos religiosos.",
+        "ubicacion": "Av. de la Constitución, s/n, 41004 Sevilla",
+        "imagen_principal": "assets/images/monumentos/catedralSevilla1.jpg",
+        "imagen_secundaria": "assets/images/monumentos/CatedralSevilla 2.jfif",
+        "redirectTo": "https://www.catedraldesevilla.es/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.16927684767!2d-5.997977710591995!3d37.38582886250629!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1755b54781%3A0xe49da05de71e6de5!2sCatedral%20de%20Sevilla!5e0!3m2!1ses!2ses!4v1683103336961!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Puertas de la Catedral de Sevilla",
+        "subtitulo": "Impresionantes obras de arte en bronce y madera",
+        "descripcion": "La Catedral de Sevilla cuenta con varias puertas impresionantes, entre las que destacan la Puerta del Bautismo, la Puerta del Príncipe y la Puerta de San Miguel. Estas puertas son verdaderas obras de arte en bronce y madera, con intrincados detalles y esculturas que representan escenas bíblicas y personajes religiosos. La Puerta del Bautismo es especialmente famosa por su representación del bautismo de Jesús en el río Jordán.",
+        "ubicacion": "Av. de la Constitución, s/n, 41004 Sevilla",
+        "imagen_principal": "assets/images/monumentos/puertaCatedral1.jpg",
+        "imagen_secundaria": "assets/images/monumentos/puertaCatedral2jpg.jpg",
+        "redirectTo": "https://www.catedraldesevilla.es/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.16927684767!2d-5.997977710591995!3d37.38582886250629!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1755b54781%3A0xe49da05de71e6de5!2sCatedral%20de%20Sevilla!5e0!3m2!1ses!2ses!4v1683103336961!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "La Giralda",
+        "subtitulo": "El emblemático símbolo de Sevilla",
+        "descripcion": "La Giralda es uno de los monumentos más emblemáticos de Sevilla, y fue construida originalmente como minarete para la mezquita almohade en el siglo XII. Tras la Reconquista, fue convertida en campanario de la catedral. La torre es un impresionante ejemplo de la arquitectura islámica, con una altura de 104 metros y un total de 35 rampas que permiten subir a la cima a pie. En la cima se encuentra un giraldillo de bronce, una estatua que representa la fe cristiana triunfante.",
+        "ubicacion": "Av. de la Constitución, s/n, 41004 Sevilla",
+        "imagen_principal": "assets/images/monumentos/giralda1.jpg",
+        "imagen_secundaria": "assets/images/monumentos/giralda2.jpg",
+        "redirectTo": "https://www.catedraldesevilla.es/la-catedral/edificio/la-giralda/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.154318879273!2d-5.995188623569718!3d37.38618263444858!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1a1eb7d42b%3A0x9d4fd647e46b7247!2sLa%20Giralda!5e0!3m2!1ses!2ses!4v1683103411378!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Plaza del Triunfo",
+        "subtitulo": "Impresionante entrada a los Reales Alcázares y la Catedral",
+        "descripcion": "La Plaza del Triunfo es una de las plazas más famosas de Sevilla. Se encuentra ubicada en el centro histórico de la ciudad y es conocida por su impresionante entrada a los Reales Alcázares y la Catedral. En ella se pueden encontrar numerosas tiendas de souvenirs y bares donde se puede disfrutar de la gastronomía local.",
+        "ubicacion": "Plaza del Triunfo, Sevilla",
+        "imagen_principal": "assets/images/poi/Plaza-del-triunfo-de-Sevilla1.jpg",
+        "imagen_secundaria": "assets/images/poi/plazadelTriunfo1.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.1863299680967!2d-5.995465623569745!3d37.385425534491695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126d95966052d1%3A0x91eab697f3c61dd1!2sPlaza%20del%20Triunfo!5e0!3m2!1ses!2ses!4v1683100800816!5m2!1ses!2ses",
+        "redirectTo": "https://buendiatours.com/es/guias/sevilla/plaza-triunfo"
+    },
+    {
+        "titulo": "Real Alcázar de Sevilla",
+        "subtitulo": "Una impresionante mezcla de arquitectura islámica y cristiana",
+        "descripcion": "El Real Alcázar de Sevilla es un impresionante complejo palaciego situado en el corazón de la ciudad. Construido en la Edad Media, el alcázar es una mezcla de arquitectura islámica y cristiana, que refleja la rica historia de la ciudad. Los visitantes pueden explorar los hermosos jardines, patios y salones del palacio, y admirar sus ricos adornos, incluyendo hermosos mosaicos, esculturas y tallas en madera.",
+        "ubicacion": "Patio de Banderas, s/n, 41004 Sevilla",
+        "imagen_principal": "assets/images/monumentos/alcazar_puerta.jpg",
+        "imagen_secundaria": "assets/images/monumentos/alcazar_dos.jpg",
+        "redirectTo": "https://www.realalcazarsevilla.com/?gad=1&gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z3KFzNPnhVDs0hpoN2VTD7TUdPHj0teISCtn7HKYx95vch4yTaZDBhoCEuMQAvD_BwE",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.2865074423576!2d-5.992800623569818!3d37.38305613462691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c198c41a24b%3A0xbaa976bfaec1fe87!2sReal%20Alc%C3%A1zar%20de%20Sevilla!5e0!3m2!1ses!2ses!4v1683102820018!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Plaza de Santa Marta",
+        "subtitulo": "Un remanso de paz de dos pasos de la giralda.",
+        "descripcion": "La Plaza de Santa Marta es un pequeño rincón con mucho encanto situado en el corazón del barrio de Santa Cruz en Sevilla. La plaza debe su nombre al desaparecido hospital de Santa Marta. Rodeada de pequeñas casas encaladas y llenas de flores, dispone en su centro la cruz de San Lázaro del antiguo hospital con mismo nombre, uno de los tres portales que aquí se encuentran dan acceso al convento de la Encarnación y sus naranjos son de los más altos de Sevilla",
+        "ubicacion": "Plaza de Santa Marta, 41004 Sevilla, España",
+        "imagen_principal": "assets/images/poi/plazadeSantaMarta1.jpg",
+        "imagen_secundaria": "assets/images/poi/plazadeSantaMarta2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.171036930792!2d-5.99436642356978!3d37.385787234470996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1986e2fc33%3A0x1a515af7c99fc8a6!2sPlaza%20de%20Santa%20Marta%2C%2041004%20Sevilla!5e0!3m2!1ses!2ses!4v1683101356145!5m2!1ses!2ses",
+        "redirectTo": "https://buendiatours.com/es/guias/sevilla/plaza-santa-marta"
+      },
+    {
+        "titulo": "Barrio de Santa Cruz",
+        "subtitulo": "El antiguo barrio judío de Sevilla",
+        "descripcion": "El Barrio de Santa Cruz es uno de los lugares más emblemáticos y turísticos de Sevilla, ubicado en el casco antiguo de la ciudad. Antiguamente fue el barrio judío de la ciudad y aún conserva su trazado urbano típico de la época medieval, con calles estrechas y sinuosas y plazas con encanto. Además, en este barrio se encuentran algunos de los monumentos más importantes de Sevilla, como la Catedral y la Giralda, el Real Alcázar o la Plaza de España.",
+        "ubicacion": "Barrio de Santa Cruz, Casco Antiguo, Sevilla",
+        "imagen_principal": "assets/images/poi/santaCruz1.jpg",
+        "imagen_secundaria": "assets/images/poi/santaCruz2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.154192034606!2d-5.992512623569746!3d37.38618563444832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1bdfcb05c1%3A0xd78c413e04572b6a!2sSanta%20Cruz!5e0!3m2!1ses!2ses!4v1683099924905!5m2!1ses!2ses",
+        "redirectTo": "https://www.visitarsevilla.com/que-ver/barrios/el-barrio-de-santa-cruz/"
+    },
+    {
+        "titulo": "Jardines de Murillo",
+        "subtitulo": "Un lugar tranquilo y con mucha historia",
+        "descripcion": "Los Jardines de Murillo deben su nombre al pintor sevillano Bartolomé Esteban Murillo, cuya casa natal se encuentra en las inmediaciones. Fueron creados a finales del siglo XIX y se encuentran ubicados en el barrio de Santa Cruz, junto a los Reales Alcázares. Se trata de un espacio tranquilo, con amplias zonas verdes y fuentes, perfecto para relajarse y disfrutar de un paseo. Además, están rodeados de importantes monumentos como la Catedral de Sevilla o la Giralda. ",
+        "ubicacion": "Calle San Fernando, s/n, 41004 Sevilla",
+        "imagen_principal": "assets/images/parques/jardines-murillo1.jpg",
+        "imagen_secundaria": "assets/images/parques/jardines-murillo2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.2700356513838!2d-5.9904244235698165!3d37.383445734604926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1f3d196b55%3A0x94f0d626d2c8539e!2sJardines%20de%20Murillo!5e0!3m2!1ses!2ses!4v1683102007529!5m2!1ses!2ses",
+        "redirectTo": "https://www.visitarsevilla.com/que-ver/monumentos/jardines-de-murillo/"
+    },
+    {
+        "titulo": "Real Fábrica de Tabacos",
+        "subtitulo": "Una antigua fábrica convertida en universidad",
+        "descripcion": "La Real Fábrica de Tabacos de Sevilla es un imponente edificio construido en el siglo XVIII para la producción de tabaco. Fue diseñada por el arquitecto español Sebastián Van der Borcht, y se convirtió en la fábrica de tabaco más grande de Europa en su época. En el siglo XIX, la fábrica se convirtió en un centro de enseñanza y hoy en día alberga la Universidad de Sevilla. El edificio cuenta con un impresionante patio central rodeado de columnas de mármol, así como con una serie de salones decorados con frescos y esculturas. Además, es famosa por ser uno de los escenarios de la famosa ópera 'Carmen' de Bizet.",
+        "ubicacion": "Calle San Fernando, 4, 41004 Sevilla",
+        "imagen_principal": "assets/images/monumentos/fabricaTabacos1.jpg",
+        "imagen_secundaria": "assets/images/monumentos/fabricaTabacos2.jpg",
+        "redirectTo": "https://www.visitarsevilla.com/que-ver/monumentos/fabrica-de-tabacos/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.3636587493615!2d-5.995493510593169!3d37.381231262772104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c188191ba1f%3A0x51608436ed235ff1!2sReal%20F%C3%A1brica%20de%20Tabacos%20de%20Sevilla!5e0!3m2!1ses!2ses!4v1683103499210!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Puerta de Jerez",
+        "subtitulo": "La entrada al centro histórico",
+        "descripcion": "La Puerta de Jerez es una de las puertas históricas de entrada al centro histórico de Sevilla, ubicada en la avenida de la Constitución. Se construyó en el siglo XVIII en estilo neoclásico y destaca por su imponente arco central y sus torres a ambos lados. La puerta es un importante punto de encuentro y punto de partida para visitar los principales atractivos turísticos de la ciudad.",
+        "ubicacion": "Av. de la Constitución, 41004 Sevilla, España",
+        "imagen_principal": "assets/images/poi/puertaJerez1.jpg",
+        "imagen_secundaria": "assets/images/poi/puertaJerez2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.3062936914953!2d-5.995950423569783!3d37.382588134653766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c182dec910f%3A0x100919e769157c37!2sPuerta%20Jerez!5e0!3m2!1ses!2ses!4v1683096412898!5m2!1ses!2ses",
+        "redirectTo": "https://isbiliya.com/las-puertas-de-sevilla/la-puerta-de-jerez/"
+      },
+      {
+        "titulo": "Torre del Oro",
+        "subtitulo": "Un icono de la ciudad junto al Guadalquivir",
+        "descripcion": "La Torre del Oro es una torre albarrana de época almohade construida en el siglo XIII, situada en la orilla del río Guadalquivir en el centro de Sevilla. La torre debe su nombre al revestimiento de azulejos dorados que solía tener en la parte superior. Durante la época medieval, la torre se usó como torre de defensa, como prisión y como almacén de mercancías preciosas, como el oro y la plata que llegaban de América. Actualmente, la Torre del Oro alberga un pequeño museo naval donde se puede conocer la historia marítima de la ciudad.",
+        "ubicacion": "Paseo de Cristóbal Colón, s/n, 41001 Sevilla",
+        "imagen_principal": "assets/images/monumentos/torredelOro1.jpg",
+        "imagen_secundaria": "assets/images/monumentos/torredelOro2.jpeg",
+        "redirectTo": "https://www.visitarsevilla.com/que-ver/monumentos/torre-del-oro/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.313519001972!2d-5.999064823569824!3d37.38241723466357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c16af11db65%3A0x7504999e77d24fe5!2sTorre%20del%20Oro!5e0!3m2!1ses!2ses!4v1683103526394!5m2!1ses!2ses"
+    }
+      
+]

@@ -1,0 +1,50 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-icon (click)="salir()" slot="start" name="arrow-back-circle-outline" color="primary"></ion-icon>
+    <ion-title>{{ruta[ind].titulo}}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content #content>
+
+
+  <ion-text style="text-align: center;" color="primary">
+    <h1 style="font-weight:bolder;">{{ruta[ind].titulo}}</h1>
+  </ion-text>
+
+  <ion-text style="text-align: center;" color="success">
+    <h4 style="padding: 5px;">{{ruta[ind].subtitulo}}</h4>
+  </ion-text>
+
+
+
+  <ion-img style="margin-top: 10%; padding: 5%;" src={{ruta[ind].imagen_principal}}></ion-img>
+
+
+  <p style="margin-top: 10%;">{{ruta[ind].descripcion}}</p>
+
+
+  <ion-img style="margin-top: 10%; padding: 5%;" src={{ruta[ind].imagen_secundaria}}></ion-img>
+
+
+  <ion-text style="margin-top: 10%; padding-left: 25px; font-weight: bold;"
+    color="primary">{{ruta[ind].ubicacion}}</ion-text>
+
+
+  <ion-item style="margin-top: 30px;">
+    <iframe [src]="ruta[ind].googlemaps | safe" width="100%" height="300" style="border:0;" allowfullscreen="true" loading="lazy">
+    </iframe>
+  </ion-item>
+
+  <ion-button (click)="nextStep()" *ngIf="ind < max" style="margin-top: 10%;" expand="block">
+    Siguiente parada
+  </ion-button>
+  <ion-button *ngIf="ind >= max" style="margin-top: 10%;" expand="block" href="/rutas">
+    Terminar ruta
+  </ion-button>
+
+
+
+</ion-content>
+
+<app-footer></app-footer>

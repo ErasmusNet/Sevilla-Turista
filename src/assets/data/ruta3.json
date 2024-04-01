@@ -1,0 +1,82 @@
+[
+    {
+        "titulo": "Hospital de las Cinco Llagas",
+        "subtitulo": "Edificio histórico del siglo XVI convertido en sede del Parlamento de Andalucía",
+        "descripcion": "El Hospital de las Cinco Llagas es un edificio histórico construido en el siglo XVI. Fue utilizado como hospital hasta el siglo XX y luego fue restaurado y reconvertido en sede del Parlamento de Andalucía en 1992. El edificio es una muestra impresionante de la arquitectura renacentista española, con una fachada imponente y una capilla barroca en su interior. En la actualidad, es posible visitar el edificio y recorrer sus salones y patios, así como disfrutar de sus exposiciones y eventos culturales.",
+        "ubicacion": "Calle Hospital de las Cinco Llagas, s/n, 41009 Sevilla",
+        "imagen_principal": "assets/images/monumentos/hospitalCincoYagas1.webp",
+        "imagen_secundaria": "assets/images/monumentos/hospitalCincoYagas2.jpg",
+        "redirectTo": "https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/inicio.do",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.351784853069!2d-5.991024523569053!3d37.405159233364316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126bfed2f1b04f%3A0x3657268a6bb9e27c!2sAntiguo%20Hospital%20de%20las%20Cinco%20Llagas!5e0!3m2!1ses!2ses!4v1683103795218!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Arco de la Macarena",
+        "subtitulo": "Una de las antiguas puertas de acceso a la ciudad",
+        "descripcion": "El Arco de la Macarena es uno de los monumentos más emblemáticos de Sevilla. Se trata de una de las antiguas puertas de acceso a la ciudad, que se conserva en muy buen estado. Se encuentra situado en la zona norte del centro histórico, en el barrio de la Macarena. El arco fue construido en el siglo XIV y cuenta con dos torres y un cuerpo central con arco de medio punto. En la actualidad, el arco se utiliza como sede de la Hermandad de la Esperanza Macarena, una de las más importantes de la Semana Santa sevillana.",
+        "ubicacion": "Calle Resolana, s/n, 41003 Sevilla, España",
+        "imagen_principal": "assets/images/poi/arco-Macarena-1.jpg",
+        "imagen_secundaria": "assets/images/poi/arco-Macarena-2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12677.841230644999!2d-5.989417!3d37.4025936!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126b3061a706c1%3A0x54be87bc0c242644!2sBas%C3%ADlica%20de%20la%20Macarena!5e0!3m2!1ses!2ses!4v1683189104068!5m2!1ses!2ses",
+        "redirectTo": "https://www.turismosevilla.org/es/que-ver-y-hacer/patrimonio/monumentos/puerta-de-la-macarena"
+      },   
+      {
+        "titulo": "Basílica de la Macarena",
+        "subtitulo": "Un lugar de devoción mariana",
+        "descripcion": "La Basílica de la Macarena es un templo religioso ubicado en el barrio de la Macarena en Sevilla, España. La iglesia es famosa por albergar la imagen de la Virgen de la Esperanza Macarena, una de las devociones marianas más populares de la ciudad. La basílica es un importante lugar de peregrinación para los fieles que visitan Sevilla y se encuentra rodeada de hermandades y cofradías religiosas. El edificio actual fue construido en el siglo XX y cuenta con un impresionante interior que incluye obras de arte, capillas y altares barrocos.",
+        "ubicacion": "Calle Bécquer, s/n, 41002 Sevilla, España",
+        "imagen_principal": "assets/images/poi/Basílica-Macarena-1.jpg",
+        "imagen_secundaria": "assets/images/poi/Basílica-Macarena-2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12677.841230644999!2d-5.989417!3d37.4025936!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126b3061a706c1%3A0x54be87bc0c242644!2sBas%C3%ADlica%20de%20la%20Macarena!5e0!3m2!1ses!2ses!4v1683189104068!5m2!1ses!2ses",
+        "redirectTo": "https://www.hermandaddelamacarena.es/la-basilica/"
+      },
+      {
+        "titulo": "Iglesia de San Luís de los Franceses",
+        "subtitulo": "Obra maestra del barroco sevillano",
+        "descripcion": "La Iglesia de San Luís de los Franceses es una de las obras maestras del barroco sevillano. Fue construida en el siglo XVIII por los jesuitas en el lugar donde antes se encontraba el convento de San Luis. El templo es de estilo barroco y está decorado con una profusión de detalles y adornos, lo que lo convierte en una de las iglesias más impresionantes de la ciudad. En su interior se encuentra una gran cantidad de obras de arte, entre ellas el retablo mayor, obra del escultor español Cayetano de Acosta, y la capilla de la Virgen de la Antigua, donde se encuentra una imagen de la Virgen del siglo XVII. La iglesia también cuenta con un impresionante coro alto, decorado con talla dorada y un órgano barroco de gran valor. ",
+        "ubicacion": "Calle San Luis, 27, 41003 Sevilla",
+        "imagen_principal": "assets/images/monumentos/iglesiaSanLuisdelosFranceses1.jpg",
+        "imagen_secundaria": "assets/images/monumentos/iglesiaSanLuisdelosFranceses2.jpg",
+        "redirectTo": "https://www.dipusevilla.es/sanluisdelosfranceses/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.6371474700536!2d-5.990680023569305!3d37.3984125337499!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c013419219f%3A0xf34aa89a8879e662!2sConjunto%20Monumental%20de%20San%20Luis%20de%20los%20Franceses!5e0!3m2!1ses!2ses!4v1683103663156!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Palacio de los Marqueses de la Algaba",
+        "subtitulo": "Historia y arte en el corazón de Sevilla",
+        "descripcion": "El Palacio de los Marqueses de la Algaba es un palacio urbano del siglo XVII ubicado en el centro histórico de Sevilla. Antiguamente fue residencia de los marqueses de la Algaba y ha sido utilizado como sede de diversos organismos públicos. Actualmente es un centro cultural que acoge exposiciones y otros eventos culturales.",
+        "ubicacion": "Plaza Calderón de la Barca, s/n, 41003 Sevilla",
+        "imagen_principal": "assets/images/monumentos/palaciodelosMarquesesdelaAlgaba1.jpg",
+        "imagen_secundaria": "assets/images/monumentos/palaciodelosMarquesesdelaAlgaba2.jpg",
+        "redirectTo": "http://participasevilla.sevilla.org/?page_id=35",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.588462938336!2d-5.993386023569272!3d37.39956363368417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c070068d0c5%3A0x4dad3efea131f5af!2sPalacio%20Marqueses%20de%20la%20Algaba!5e0!3m2!1ses!2ses!4v1683104051361!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Torre de Don Fadrique",
+        "subtitulo": "La torre de defensa de la ciudad",
+        "descripcion": "La Torre de Don Fadrique es una torre almohade de origen militar situada en el barrio de la Macarena de Sevilla, España. Fue construida en el siglo XII como parte de la muralla que rodeaba la ciudad y formaba parte de la defensa de la puerta de Córdoba. Actualmente, la torre es el único vestigio de la muralla que se conserva en el barrio.",
+        "ubicacion": "Calle Torre de Don Fadrique, 41009 Sevilla",
+        "imagen_principal": "assets/images/poi/donFadrique1.jpg",
+        "imagen_secundaria": "assets/images/poi/donFadrique2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.5427505047046!2d-5.998159823569222!3d37.40064443362229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c08396c9373%3A0xcc80297e424217c1!2sTorre%20de%20Don%20Fadrique!5e0!3m2!1ses!2ses!4v1683099836955!5m2!1ses!2ses",
+        "redirectTo": "https://www.turismosevilla.org/es/que-ver-y-hacer/patrimonio/monumentos/real-monasterio-de-santa-clara-y-torre-de-don-fadrique"
+    },
+    {
+        "titulo": "Plaza de San Lorenzo",
+        "subtitulo": "Una plaza con mucha historia",
+        "descripcion": "La Plaza de San Lorenzo es una plaza histórica situada en el corazón del barrio de San Lorenzo, en Sevilla. En ella se encuentra la imponente iglesia barroca de San Lorenzo, cuyo campanario es una de las torres más altas de la ciudad. La plaza también cuenta con numerosos bares y restaurantes en los que se puede disfrutar de la gastronomía sevillana.",
+        "ubicacion": "Plaza de San Lorenzo, 41002 Sevilla, España",
+        "imagen_principal": "assets/images/poi/Plaza_de_san_lorenzo_1.jpg",
+        "imagen_secundaria": "assets/images/poi/Plaza_de_san_lorenzo_2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.6943420188286!2d-5.999275673569339!3d37.397060183827044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c092617cb2b%3A0x9eb1d67fde9b4565!2sPlaza%20de%20San%20Lorenzo%2C%2041002%20Sevilla!5e0!3m2!1ses!2ses!4v1683101117952!5m2!1ses!2ses",
+        "redirectTo": "https://sevillapedia.wikanda.es/wiki/Plaza_de_San_Lorenzo_(Sevilla)"
+    },
+    {
+        "titulo": "Alameda de Hércules",
+        "subtitulo": "El pulmón verde del centro histórico de Sevilla",
+        "descripcion": "La Alameda de Hércules es una amplia avenida ajardinada situada en el centro histórico de Sevilla, que fue construida en el siglo XVIII sobre los terrenos de la antigua alameda de la ciudad. Con una longitud de unos 700 metros, la Alameda de Hércules está flanqueada por dos filas de árboles y cuenta con varias plazas y jardines, así como con numerosos bares, restaurantes y terrazas. En la actualidad, la Alameda de Hércules es uno de los lugares más populares de Sevilla para pasear, relajarse, hacer deporte o disfrutar de la vida nocturna.",
+        "ubicacion": "Alameda de Hércules, s/n, 41002 Sevilla",
+        "imagen_principal": "assets/images/monumentos/alamedadeHercules1.jpg",
+        "imagen_secundaria": "assets/images/monumentos/alamedadeHercules2.jpg",
+        "redirectTo": "https://www.visitarsevilla.com/que-ver/monumentos/alameda-de-hercules/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.619041592166!2d-5.996282923569304!3d37.39884063372561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c07d8574877%3A0xc84477931c5e2a5f!2sAlameda%20de%20H%C3%A9rcules!5e0!3m2!1ses!2ses!4v1683103554151!5m2!1ses!2ses"
+    }
+]

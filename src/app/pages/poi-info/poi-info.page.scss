@@ -1,0 +1,25 @@
+ion-icon{
+
+    height: 50px;
+    width: 50px
+    
+}
+ion-icon:target{
+    
+    --ion-color-secondary:var(--ion-color-secondary)
+
+}
+
+p {
+    
+    text-align: center;
+    justify-content: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family:'Poppins', sans-serif;
+}
+
+
+ion-img::part(image) {
+    border-radius: 10px;
+  }

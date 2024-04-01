@@ -1,0 +1,104 @@
+[
+    {
+        "titulo": "Jardines de las Delicias",
+        "subtitulo": "Un remanso de paz y belleza en pleno centro histórico",
+        "descripcion": "El Jardín de las Delicias es uno de los parques más emblemáticos de Sevilla, situado en pleno casco histórico de la ciudad, a orillas del río Guadalquivir. Con una extensión de unos 7.500 metros cuadrados, este jardín cuenta con una gran variedad de especies vegetales y es un lugar ideal para pasear y disfrutar de la naturaleza en pleno centro de la ciudad. Además, cuenta con una zona de juegos para niños y un espacio para realizar actividades deportivas al aire libre.",
+        "ubicacion": "Calle Jorge Guillén, 41013 Sevilla",
+        "imagen_principal": "assets/images/parques/jardines-de-las-delicias1.jpg",
+        "imagen_secundaria": "assets/images/parques/jardines-de-las-delicias2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.808015792664!2d-5.993031223570247!3d37.370719335331486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c259018d57d%3A0x7ee14ba3fad72466!2sJardines%20de%20las%20Delicias!5e0!3m2!1ses!2ses!4v1683101766217!5m2!1ses!2ses",
+        "redirectTo": "https://www.visitarsevilla.com/que-ver/monumentos/jardines-de-las-delicias/"
+    },
+    {
+        "titulo": "Parque de María Luisa",
+        "subtitulo": "El parque más emblemático de la ciudad",
+        "descripcion": "El Parque de María Luisa es un amplio espacio verde que ocupa una superficie de 34 hectáreas en el centro de Sevilla. Fue creado en 1929 con motivo de la Exposición Iberoamericana y cuenta con jardines, estanques, puentes, fuentes y monumentos. Entre los monumentos más destacados se encuentran la Plaza de España, el Pabellón Real, el Teatro Lope de Vega y la Glorieta de los Leones.",
+        "ubicacion": "Avenida de Isabel la Católica, s/n, 41013 Sevilla",
+        "imagen_principal": "assets/images/parques/maria-luisa1.jpg",
+        "imagen_secundaria": "assets/images/parques/maria-luisa2.jpg",
+        "redirectTo": "https://www.visitarsevilla.com/que-ver/monumentos/el-parque-de-maria-luisa/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6341.338627097055!2d-5.992663202971452!3d37.374000814475835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c241d1a35ef%3A0x68b6f2f07d1ee842!2sParque%20de%20Mar%C3%ADa%20Luisa!5e0!3m2!1ses!2ses!4v1683101803161!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Jardines de los Reales Alcázares",
+        "subtitulo": "Jardines históricos con una gran variedad de especies y fuentes en los Reales Alcázares de Sevilla",
+        "descripcion": "Los jardines de los Reales Alcázares son unos de los más bellos y antiguos de Sevilla, con una superficie de aproximadamente 70.000 m². Poseen una gran variedad de plantas y árboles, fuentes, estanques y esculturas. Los jardines fueron construidos por diferentes monarcas y reflejan diferentes estilos y épocas, desde el Renacimiento hasta el Romanticismo. Se pueden encontrar rincones mágicos y especiales, como el laberinto o el estanque de Mercurio. Los jardines son de acceso gratuito con la entrada a los Reales Alcázares.",
+        "ubicacion": "Patio de Banderas, s/n, 41004 Sevilla",
+        "imagen_principal": "assets/images/parques/alcazares1.jpg",
+        "imagen_secundaria": "assets/images/parques/alcazares2jpg.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6340.573372952357!2d-5.99975290642088!3d37.3830519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c198c41a24b%3A0xbaa976bfaec1fe87!2sReal%20Alc%C3%A1zar%20de%20Sevilla!5e0!3m2!1ses!2ses!4v1683101843451!5m2!1ses!2ses",
+        "redirectTo": "https://www.alcazarsevilla.org/"
+    },
+    {
+        "titulo": "Jardines de la Buhaira",
+        "subtitulo": "La belleza de los jardines andaluces en Sevilla",
+        "descripcion": "Los Jardines de la Buhaira son uno de los parques más emblemáticos de Sevilla. Se encuentra en la antigua huerta de la ciudad, fuera de las murallas, donde existían varias fuentes de agua que se utilizaban para el riego de las plantaciones. En el siglo XII, durante la época musulmana, la zona fue transformada en un palacio rodeado de jardines, el cual fue destruido en el siglo XIII. En 1574 se construyó una alberca que se utilizaba para el riego de los huertos que se cultivaban en la zona. En el siglo XVIII, el arzobispo Joaquín de Eleta decidió crear un jardín que estuviera al nivel de los grandes jardines de la época en Europa. Se construyeron varios estanques, puentes y un pabellón para la música. En el siglo XIX, el jardín fue adquirido por el Ayuntamiento y se abrió al público.",
+        "ubicacion": "Av. de la Palmera, s/n, 41012 Sevilla",
+        "imagen_principal": "assets/images/parques/buhaira1.jpg",
+        "imagen_secundaria": "assets/images/parques/buhaira2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.2646789054425!2d-5.9812313235697525!3d37.383572434597546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126fffc6de02ef%3A0x39d5a7b51200a0b!2sJardines%20de%20la%20Buhaira!5e0!3m2!1ses!2ses!4v1683101885006!5m2!1ses!2ses",
+        "redirectTo": "https://sevillasecreta.co/la-historia-del-palacio-la-buhaira-jardines/"
+    },
+    {
+        "titulo": "Jardines de la Torre de Don Fadrique",
+        "subtitulo": "Un oasis de tranquilidad en pleno centro de Sevilla",
+        "descripcion": "Los Jardines de la Torre de Don Fadrique se encuentran ubicados en pleno centro histórico de Sevilla, cerca de la Alameda de Hércules. Se trata de un pequeño oasis de tranquilidad en medio del bullicio de la ciudad, perfecto para relajarse y desconectar. Los jardines, que cuentan con una extensión de 4.000 metros cuadrados, están distribuidos en varias terrazas y ofrecen unas vistas impresionantes de la ciudad. Entre las especies vegetales que se pueden encontrar destacan los naranjos, los limoneros y los jazmines.",
+        "ubicacion": "Calle Torneo, s/n, 41002 Sevilla",
+        "imagen_principal": "assets/images/parques/torre-don-fadrique1.jpeg",
+        "imagen_secundaria": "assets/images/parques/torre-don-fadrique2.jpeg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.5427505047046!2d-5.998159823569222!3d37.40064443362229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c08396c9373%3A0xcc80297e424217c1!2sTorre%20de%20Don%20Fadrique!5e0!3m2!1ses!2ses!4v1683099836955!5m2!1ses!2ses",
+        "redirectTo": "https://www.urbanismosevilla.org/noticias/una-torre-una-puerta-y-un-jardin"
+    },
+    {
+        "titulo": "Jardines de la Caridad",
+        "subtitulo": "Jardines de estilo romántico",
+        "descripcion": "Los Jardines de la Caridad se encuentran ubicados en el barrio de Triana, junto al Hospital de la Caridad. Fueron diseñados por el arquitecto francés Jean-Claude Nicolas Forestier en 1914 y se caracterizan por su estilo romántico con elementos neomudéjares y neogóticos. Cuentan con una gran variedad de especies vegetales, fuentes, estanques y esculturas, destacando la fuente de las Ranas y la escultura del Sagrado Corazón de Jesús en el centro del jardín. Es un lugar ideal para pasear y disfrutar de la tranquilidad.",
+        "ubicacion": "Calle Enramadilla, 1, 41010 Sevilla",
+        "imagen_principal": "assets/images/parques/jardines caridad 1.JPG",
+        "imagen_secundaria": "assets/images/parques/jardines caridad 2.JPG",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.257986122146!2d-5.998729923569769!3d37.383730734588525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c16e17d8af7%3A0xff83f0d19e8d0fa1!2sJardines%20de%20la%20Caridad!5e0!3m2!1ses!2ses!4v1683101972635!5m2!1ses!2ses",
+        "redirectTo": "https://www.jardinesquemegustan.com/2010/12/el-jardin-de-la-caridad.html"
+    },
+    {
+        "titulo": "Jardines de Murillo",
+        "subtitulo": "Un lugar tranquilo y con mucha historia",
+        "descripcion": "Los Jardines de Murillo deben su nombre al pintor sevillano Bartolomé Esteban Murillo, cuya casa natal se encuentra en las inmediaciones. Fueron creados a finales del siglo XIX y se encuentran ubicados en el barrio de Santa Cruz, junto a los Reales Alcázares. Se trata de un espacio tranquilo, con amplias zonas verdes y fuentes, perfecto para relajarse y disfrutar de un paseo. Además, están rodeados de importantes monumentos como la Catedral de Sevilla o la Giralda. ",
+        "ubicacion": "Calle San Fernando, s/n, 41004 Sevilla",
+        "imagen_principal": "assets/images/parques/jardines-murillo1.jpg",
+        "imagen_secundaria": "assets/images/parques/jardines-murillo2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.2700356513838!2d-5.9904244235698165!3d37.383445734604926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1f3d196b55%3A0x94f0d626d2c8539e!2sJardines%20de%20Murillo!5e0!3m2!1ses!2ses!4v1683102007529!5m2!1ses!2ses",
+        "redirectTo": "https://www.visitarsevilla.com/que-ver/monumentos/jardines-de-murillo/"
+    },
+    {
+        "titulo": "Parque de los Perdigones",
+        "subtitulo": "Un espacio verde en pleno centro de Sevilla",
+        "descripcion": "El Parque de los Perdigones es un amplio espacio verde de 38.000 metros cuadrados ubicado en el centro de Sevilla, en el barrio de la Macarena. Fue inaugurado en 2009 y desde entonces se ha convertido en uno de los lugares preferidos por los sevillanos para pasear, hacer deporte o disfrutar de un picnic en familia. El parque cuenta con zonas verdes, jardines, zonas deportivas, una pista de patinaje y un gran lago artificial donde se pueden alquilar barcas para pasear. Además, cuenta con numerosos árboles y plantas que lo convierten en un oasis de tranquilidad en pleno centro de la ciudad.",
+        "ubicacion": "Calle Resolana, s/n, 41009 Sevilla",
+        "imagen_principal": "assets/images/parques/Parque-perdigones1.jpg",
+        "imagen_secundaria": "assets/images/parques/Parque-perdigones2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.3810434480447!2d-5.996215023569094!3d37.40446753340393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126bf83762f593%3A0x87ea10f577fca4f2!2sParque%20de%20los%20Perdigones!5e0!3m2!1ses!2ses!4v1683102052842!5m2!1ses!2ses",
+        "redirectTo":"https://jardinessinfronteras.com/2021/04/15/el-parque-torre-de-los-perdigones-en-sevilla/"
+    },
+    {
+        "titulo": "Parque del Alamillo",
+        "subtitulo": "El parque más grande de Sevilla con una superficie de 120 hectáreas.",
+        "descripcion": "El Parque del Alamillo es un parque público situado en la ciudad de Sevilla, España. Fue inaugurado en 1992 con motivo de la Exposición Universal celebrada en la ciudad ese año. Con una extensión de 415 hectáreas, es uno de los parques más grandes de Europa. En su interior se pueden encontrar numerosas especies vegetales, así como lagos, ríos y zonas de recreo. También cuenta con numerosas instalaciones deportivas y de ocio, como pistas de tenis, campos de fútbol, una pista de BMX y un parque de atracciones.",
+        "ubicacion": "Camino de los Descubrimientos, s/n, 41092 Sevilla, España",
+        "imagen_principal": "assets/images/parques/alamillo1.jpg",
+        "imagen_secundaria": "assets/images/parques/alamillo2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3168.7822775696695!2d-5.997805623568604!3d37.41862073259526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126be99dec40e1%3A0xebcf62d5a79cda76!2sAlamillo!5e0!3m2!1ses!2ses!4v1683102101592!5m2!1ses!2ses",
+        "redirectTo": "https://www.visitarsevilla.com/que-ver/monumentos/parque-del-alamillo/"
+    },
+    {
+        "titulo": "Parque de los Príncipes",
+        "subtitulo": "Un espacio verde en el barrio de Los Remedios",
+        "descripcion": "El Parque de los Príncipes es un parque urbano situado en el barrio de Los Remedios, en Sevilla. Es un lugar popular para pasear, hacer deporte y disfrutar del aire libre en la ciudad. Cuenta con numerosas áreas verdes, bancos, juegos infantiles y pistas deportivas para el disfrute de los visitantes.",
+        "ubicacion": "Calle Virgen de Luján, 41011 Sevilla, España",
+        "imagen_principal": "assets/images/parques/parquePrincipes2.jpg",
+        "imagen_secundaria": "assets/images/parques/parquePrincipes1.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1585.3125111523266!2d-6.006966811056095!3d37.37504862451873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c389df2e865%3A0x9f9087127b536c38!2sParque%20de%20los%20Pr%C3%ADncipes!5e0!3m2!1ses!2ses!4v1683191838339!5m2!1ses!2ses",
+        "redirectTo": "https://visitasevilla.es/parque-de-los-principes/"
+      }
+      
+
+]

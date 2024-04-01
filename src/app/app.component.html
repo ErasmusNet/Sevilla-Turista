@@ -1,0 +1,47 @@
+<ion-menu side="start" menuId="first" content-id="main">
+  <ion-header>
+    <ion-toolbar>
+      <ion-title color="primary">Menú</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content class="ion-padding">
+
+    <ion-list class="animate__animated animate__fadeIn">
+
+      <ion-menu-toggle>
+
+        <ion-item routerLink="/rutas" detail>
+          <fa-icon slot="start" [icon]="ruta"></fa-icon>
+          <ion-text color="primary">
+            Rutas
+          </ion-text>
+        </ion-item>
+
+        <ion-item routerLink="/monumentos" detail>
+          <fa-icon slot="start" [icon]="mon"></fa-icon>
+          <ion-text color="primary">
+            Monumentos
+          </ion-text>
+        </ion-item>
+        
+        <ion-item routerLink="/poi" detail>
+          <fa-icon slot="start" [icon]="poi"></fa-icon>
+          <ion-text color="primary">
+            Puntos de Interés
+          </ion-text>
+        </ion-item>
+
+        <ion-item routerLink="/parques" detail>
+          <fa-icon slot="start" [icon]="parque"></fa-icon>
+          <ion-text color="primary">
+            Parques y Jardines
+          </ion-text>
+        </ion-item>
+      </ion-menu-toggle>
+
+    </ion-list>
+  </ion-content>
+</ion-menu>
+
+
+<ion-router-outlet id="main"></ion-router-outlet>

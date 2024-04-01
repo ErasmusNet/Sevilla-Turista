@@ -1,0 +1,102 @@
+[
+    {
+        "titulo": "Plaza de San Francisco",
+        "subtitulo": "Plaza histórica en el centro de Sevilla",
+        "descripcion": "La Plaza de San Francisco es una plaza histórica en el centro de Sevilla, situada en el lugar donde estaba el antiguo convento de San Francisco. Actualmente es una plaza muy concurrida y es considerada el centro neurálgico de la ciudad. Alrededor de la plaza se encuentran importantes edificios como el Ayuntamiento de Sevilla y la Catedral de Sevilla.",
+        "ubicacion": "Centro de Sevilla",
+        "imagen_principal": "assets/images/poi/Plaza-de-San-Francisco1.jpg",
+        "imagen_secundaria": "assets/images/poi/Plaza-de-San-Francisco2.jpg",
+        "redirectTo": "https://www.patrimoniodesevilla.es/la-plaza-de-san-francisco",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.0458085437676!2d-5.9965467235695895!3d37.38874893430201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c107d9b5401%3A0xc1d7bd64cde7d9ad!2sPl.%20de%20S.%20Francisco%2C%20Sevilla!5e0!3m2!1ses!2ses!4v1683100865722!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Ayuntamiento de Sevilla",
+        "subtitulo": "Sede del gobierno local y uno de los edificios más emblemáticos de la ciudad",
+        "descripcion": "El Ayuntamiento de Sevilla es la sede del gobierno local y uno de los edificios más emblemáticos de la ciudad. Fue construido en el siglo XVI y combina elementos renacentistas, barrocos y neoclásicos en su arquitectura. La fachada principal es especialmente impresionante, con una torre central rematada por una estatua de la Fama. En el interior, destaca el Salón Colón, un impresionante salón de actos decorado con frescos y esculturas. El Ayuntamiento es un lugar de visita obligada para cualquier turista que visite Sevilla.",
+        "ubicacion": "Plaza Nueva, s/n, 41001 Sevilla",
+        "imagen_principal": "assets/images/monumentos/ayuntamiento1.jpg",
+        "imagen_secundaria": "assets/images/monumentos/ayuntamiento2.jpg",
+        "redirectTo": "https://www.sevilla.org/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.047216601555!2d-5.997110623569633!3d37.38871563430379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c108a004ae3%3A0x4ad7669e0eee2dd1!2sAyuntamiento%20de%20Sevilla!5e0!3m2!1ses!2ses!4v1683103851948!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Plaza Nueva",
+        "subtitulo": "Una de las plazas más grandes e importantes de Sevilla",
+        "descripcion": "La Plaza Nueva es una de las plazas más grandes e importantes de Sevilla. Se encuentra en el centro histórico de la ciudad y está rodeada de edificios históricos, incluyendo el Ayuntamiento y el edificio de la Real Audiencia. La plaza fue construida en el siglo XIX en estilo neoclásico, y destaca por su impresionante fuente central y por las palmeras que la rodean. La plaza es un lugar muy popular entre los sevillanos y los turistas, y en ella se celebran numerosos eventos y festividades a lo largo del año.",
+        "ubicacion": "Plaza Nueva, 41001 Sevilla",
+        "imagen_principal": "assets/images/monumentos/plazaNueva1.jpg",
+        "imagen_secundaria": "assets/images/monumentos/plazaNueva2.jpg",
+        "redirectTo": "https://www.visitarsevilla.com/que-ver/monumentos/la-plaza-nueva-y-el-ayuntamiento/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.050861478897!2d-5.9982511235696405!3d37.38862943430856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c10590f5ead%3A0x2c81f580875b3ece!2sPlaza%20Nueva%2C%2041001%20Sevilla!5e0!3m2!1ses!2ses!4v1683103818742!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Archivo de Indias",
+        "subtitulo": "Un tesoro histórico de la época colonial",
+        "descripcion": "El Archivo General de Indias es un tesoro histórico que alberga documentos y registros relacionados con la época colonial española en América y las Filipinas. Ubicado en un impresionante edificio construido en el siglo XVI, los visitantes pueden explorar los pasillos llenos de estanterías y archivos históricos, que documentan la rica historia de la colonización española. Además de su valor histórico, el edificio en sí mismo es una impresionante muestra de la arquitectura renacentista española.",
+        "ubicacion": "Av. de la Constitución, s/n, 41004 Sevilla",
+        "imagen_principal": "assets/images/monumentos/archivoIndias_uno.jpg",
+        "imagen_secundaria": "assets/images/monumentos/archivo_indias_dos.jpg",
+        "redirectTo": "https://www.visitarsevilla.com/que-ver/monumentos/archivo-de-indias/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.2198710421185!2d-5.995833023569813!3d37.38463223453699!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1755b538a1%3A0x4330efece5653ae6!2sArchivo%20de%20Indias!5e0!3m2!1ses!2ses!4v1683102856977!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Plaza de Doña Elvira y Santa Cruz",
+        "subtitulo": "Un rincón con encanto en el Barrio de Santa Cruz",
+        "descripcion": "La Plaza de Doña Elvira es uno de los lugares más concurridos del Barrio de Santa Cruz. Se encuentra rodeada de restaurantes y bares con encanto, y es un sitio perfecto para disfrutar de una comida o una bebida en su terraza mientras se contempla la belleza del entorno. En el centro de la plaza se encuentra una fuente rodeada de bancos donde se puede descansar y relajarse después de un día de turismo por la ciudad.",
+        "ubicacion": "Calle Doña Elvira, Barrio de Santa Cruz, Sevilla",
+        "imagen_principal": "assets/images/poi/plaza-dona-elvira-1.jpg",
+        "imagen_secundaria": "assets/images/poi/plaza-dona-elvira-2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.212945555635!2d-5.993061723569744!3d37.38479603452761!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c196d81a897%3A0x7911d4246978953a!2sPl.%20de%20Do%C3%B1a%20Elvira%2C%2041004%20Sevilla!5e0!3m2!1ses!2ses!4v1683100674471!5m2!1ses!2ses",
+        "redirectTo": "https://www.patrimoniodesevilla.es/la-plaza-de-dona-elvira"
+    },
+    {
+        "titulo": "Hospital de los Venerables",
+        "subtitulo": "Una joya del Barroco sevillano",
+        "descripcion": "El Hospital de los Venerables es un impresionante edificio barroco construido en el siglo XVII, situado en pleno barrio de Santa Cruz de Sevilla. Fue construido como residencia para sacerdotes ancianos y enfermos, y hoy en día es un centro de arte y cultura que alberga exposiciones y eventos culturales. El patio central del hospital es un impresionante ejemplo de la arquitectura barroca sevillana, y cuenta con una impresionante colección de arte, incluyendo obras de Bartolomé Esteban Murillo.",
+        "ubicacion": "Plaza de los Venerables, 8, 41004 Sevilla",
+        "imagen_principal": "assets/images/monumentos/hospital-venerable-interior-capilla.jpg",
+        "imagen_secundaria": "assets/images/monumentos/venerables2.jpg",
+        "redirectTo": "https://losvenerables.es/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.197762667675!2d-5.992510323569738!3d37.385155134507116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1968dfc6fd%3A0xea2967c01f020029!2sHospital%20Los%20Venerables!5e0!3m2!1ses!2ses!4v1683102735185!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Casa de Pilatos",
+        "subtitulo": "Una mansión palaciega renacentista",
+        "descripcion": "La Casa de Pilatos es una mansión palaciega renacentista situada en el centro histórico de Sevilla. Fue construida en el siglo XVI y es conocida por su impresionante mezcla de estilos arquitectónicos, que incluyen el renacimiento italiano y el mudéjar español. Los visitantes pueden recorrer los hermosos patios y jardines, así como admirar la colección de arte y antigüedades que se encuentra en su interior. La Casa de Pilatos es un ejemplo excepcional de la arquitectura residencial de la época.",
+        "ubicacion": "Plaza de Pilatos, 1, 41003 Sevilla",
+        "imagen_principal": "assets/images/monumentos/casaPilatos_uno.jpg",
+        "imagen_secundaria": "assets/images/monumentos/casaPilatos_2.jpg",
+        "redirectTo": "http://www.fundacionmedinaceli.org/monumentos/pilatos/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.9809479286514!2d-5.989726823569566!3d37.39028283421436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c1ceb66b135%3A0xa06ec8264629fab!2sCasa%20de%20Pilatos!5e0!3m2!1ses!2ses!4v1683103088433!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Metropol Parasol",
+        "subtitulo": "La estructura de madera más grande del mundo",
+        "descripcion": "Metropol Parasol es una estructura de madera en forma de setas gigantes que se alza sobre la Plaza de la Encarnación en el centro de Sevilla. Fue diseñada por el arquitecto alemán Jürgen Mayer y construida en 2011. La estructura es la más grande del mundo de su tipo y ha sido descrita como un símbolo de la arquitectura moderna y la creatividad en Sevilla. Los visitantes pueden disfrutar de unas vistas panorámicas de la ciudad desde la parte superior de la estructura, así como de los restaurantes y bares ubicados en su interior.",
+        "ubicacion": "Plaza de la Encarnación, s/n, 41003 Sevilla",
+        "imagen_principal": "assets/images/monumentos/Sevillametropolparasoluno.jpg",
+        "imagen_secundaria": "assets/images/monumentos/metropolparasol_2.jpg",
+        "redirectTo": "https://setasdesevilla.com/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.859499947816!2d-5.9944054735695005!3d37.39315483405018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c05109a541f%3A0xbda4ae6de1fed2c4!2sSetas%20de%20Sevilla!5e0!3m2!1ses!2ses!4v1683102918268!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Plaza del Duque y Campana",
+        "subtitulo": "El centro comercial de la ciudad",
+        "descripcion": "La Plaza del Duque y la Campana es una plaza situada en el centro de Sevilla, en la zona comercial de la ciudad. Es uno de los lugares más concurridos de Sevilla, especialmente por su amplia oferta de tiendas y restaurantes. La plaza cuenta con una fuente central y está rodeada de edificios históricos, como la Capilla de San José y el edificio del antiguo Cine Duque. Es un punto de partida ideal para recorrer el centro histórico de la ciudad.",
+        "ubicacion": "Plaza del Duque de la Victoria, 41001 Sevilla, España",
+        "imagen_principal": "assets/images/poi/plaza del duque1.jpg",
+        "imagen_secundaria": "assets/images/poi/campana1.jpg",
+        "googlemaps":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1584.9239021284316!2d-5.996632064857971!3d37.393431403613604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c0fa565e73b%3A0x9d2c67b18878068f!2sPl.%20del%20Duque%20de%20la%20Victoria%2C%20Sevilla!5e0!3m2!1ses!2ses!4v1683100943105!5m2!1ses!2ses",
+        "redirectTo": "https://sevillando.net/plaza-duque-victoria/"
+    },
+    {
+        "titulo": "Alameda de Hércules",
+        "subtitulo": "El pulmón verde del centro histórico de Sevilla",
+        "descripcion": "La Alameda de Hércules es una amplia avenida ajardinada situada en el centro histórico de Sevilla, que fue construida en el siglo XVIII sobre los terrenos de la antigua alameda de la ciudad. Con una longitud de unos 700 metros, la Alameda de Hércules está flanqueada por dos filas de árboles y cuenta con varias plazas y jardines, así como con numerosos bares, restaurantes y terrazas. En la actualidad, la Alameda de Hércules es uno de los lugares más populares de Sevilla para pasear, relajarse, hacer deporte o disfrutar de la vida nocturna.",
+        "ubicacion": "Alameda de Hércules, s/n, 41002 Sevilla",
+        "imagen_principal": "assets/images/monumentos/alamedadeHercules1.jpg",
+        "imagen_secundaria": "assets/images/monumentos/alamedadeHercules2.jpg",
+        "redirectTo": "https://www.visitarsevilla.com/que-ver/monumentos/alameda-de-hercules/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.619041592166!2d-5.996282923569304!3d37.39884063372561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c07d8574877%3A0xc84477931c5e2a5f!2sAlameda%20de%20H%C3%A9rcules!5e0!3m2!1ses!2ses!4v1683103554151!5m2!1ses!2ses"
+    }
+]

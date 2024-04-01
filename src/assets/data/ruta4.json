@@ -1,0 +1,72 @@
+[
+    {
+        "titulo": "Torre Sevilla",
+        "subtitulo": "Rascacielos icónico de la ciudad",
+        "descripcion": "La Torre Sevilla es un rascacielos de 180 metros de altura y 40 plantas ubicado en la isla de la Cartuja, a orillas del río Guadalquivir. Fue inaugurado en 2015 y cuenta con una superficie total de 240.000 metros cuadrados. La torre alberga oficinas, un centro comercial, un hotel de cuatro estrellas, restaurantes y un mirador panorámico en la última planta, desde el que se puede disfrutar de unas impresionantes vistas de la ciudad.",
+        "ubicacion": "Isla de la Cartuja, Sevilla",
+        "imagen_principal": "assets/images/poi/torreSevilla1.jpg",
+        "imagen_secundaria": "assets/images/poi/torreSevilla2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3169.9321624876234!2d-6.013064823569558!3d37.391436534148276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c71c0eda5f3%3A0x6f8db9ee73f3c556!2sTorre%20Sevilla%2C%2041092%20Sevilla!5e0!3m2!1ses!2ses!4v1683099782228!5m2!1ses!2ses",
+        "redirectTo": "https://www.cctorresevilla.com/"
+    },
+    {
+        "titulo": "Puente de Triana",
+        "subtitulo": "Un puente con gemelo francés",
+        "descripcion": "El Puente de Isabel II, también conocido como Puente de Triana, es uno de los símbolos más reconocibles de la ciudad de Sevilla. Construido entre 1845 y 1852 por los arquitectos Gustavo Steinacher y Ferdinand Bennetot, es un puente de hierro que atraviesa el río Guadalquivir y conecta los barrios de Triana y El Arenal. Para su construcción tomaron como referencia el puente del Carrousel de París, el cual desaparecería dos años más tarde. Lo presentaron al Cabildo como un proyecto sustituir al antiguo Puente de barcas y fue el diseño elegido. En su día fue el primer puente permanente de hierro que se construyó en España, lo que lo convierte en un importante hito en la historia de la ingeniería española.",
+        "ubicacion": "Sevilla, España",
+        "imagen_principal": "assets/images/poi/puente-de-triana-sevilla1.jpg",
+        "imagen_secundaria": "assets/images/poi/puente-de-triana-sevilla2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.148047328535!2d-6.007246010591892!3d37.38633096247715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c136e2b90a5%3A0x4c0bcc574dff2913!2sPuente%20de%20Isabel%20II%20(Puente%20de%20Triana)!5e0!3m2!1ses!2ses!4v1683100169355!5m2!1ses!2ses",
+        "redirectTo": "https://tuguiadesevilla.com/el-puente-de-isabel-ii-el-puente-de-triana/"
+    },
+    {
+        "titulo": "Plaza de toros de Sevilla, la Maestranza",
+        "subtitulo": "Un icono de la cultura española",
+        "descripcion": "La Plaza de Toros de Sevilla, también conocida como la Maestranza, es uno de los lugares más emblemáticos de la ciudad. Fue construida en el siglo XVIII y es considerada una de las plazas de toros más importantes de España. Los visitantes pueden admirar la impresionante arquitectura de la plaza y aprender sobre la cultura española y la tauromaquia en el museo taurino ubicado en el interior. Además, durante la temporada de toros, se puede asistir a espectáculos y corridas de toros en el coso.",
+        "ubicacion": "Paseo de Cristóbal Colón, 12, 41001 Sevilla",
+        "imagen_principal": "assets/images/monumentos/sevilla-arenal-plaza toros real maestranza-18.jpg",
+        "imagen_secundaria": "assets/images/monumentos/arena-seville.jpg",
+        "redirectTo": "https://plazadetorosdelamaestranza.com/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.162140950504!2d-6.00097542356972!3d37.3859976344589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c13fa46594f%3A0x435f3b05b9640285!2sPlaza%20de%20toros%20de%20la%20Real%20Maestranza%20de%20Caballer%C3%ADa%20de%20Sevilla!5e0!3m2!1ses!2ses!4v1683103059113!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Castillo de San Jorge",
+        "subtitulo": "Fortaleza medieval con vistas al río Guadalquivir",
+        "descripcion": "El Castillo de San Jorge es una fortaleza medieval que data del siglo XIII y se encuentra situado en la colina de Triana, frente al río Guadalquivir. Fue construido por los almohades y posteriormente reconstruido por los cristianos en el siglo XV. Fue utilizado como prisión durante varios siglos y actualmente alberga el Museo del Castillo de San Jorge. Desde sus torres y murallas se puede disfrutar de unas impresionantes vistas del río y de la ciudad. Además, su interior está lleno de historia y cuenta con una exposición permanente que muestra la evolución del castillo y su importancia en la historia de la ciudad.",
+        "ubicacion": "Plaza del Altozano, s/n, 41010 Sevilla",
+        "imagen_principal": "assets/images/monumentos/castilloSanJorge1.jpg",
+        "imagen_secundaria": "assets/images/monumentos/castilloSanJorge2.jpg",
+        "redirectTo": "https://www.visitarsevilla.com/que-ver/monumentos/castillo-de-san-jorge/",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.1754764486855!2d-6.005686923569703!3d37.385682234477144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c149e18e353%3A0x532d765a367c925c!2sPunto%20de%20Info.%20Tur%C3%ADstica%20Castillo%20de%20San%20Jorge%20(L-D%209%3A30-15%3A00)Castillo%20y%20Expo.%20Lunes%20Cerrado(M-D%2011%3A00-19%3A00.%20Precio%205%E2%82%AC)!5e0!3m2!1ses!2ses!4v1683103714145!5m2!1ses!2ses"
+    },
+    {
+        "titulo": "Plaza del Altozano",
+        "subtitulo": "Un punto de encuentro en Triana",
+        "descripcion": "La Plaza del Altozano es uno de los lugares más emblemáticos del barrio de Triana. Se encuentra junto al río Guadalquivir y ofrece unas vistas espectaculares de la Torre del Oro y de la Catedral de Sevilla. Es un punto de encuentro muy popular para los trianeros y turistas, especialmente durante la Feria de Abril. En la plaza se encuentra la estatua de la célebre bailaora de flamenco Carmen Amaya, nacida en Barcelona pero de origen gitano y con una gran vinculación con Triana.",
+        "ubicacion": "Plaza del Altozano, Triana, Sevilla",
+        "imagen_principal": "assets/images/poi/plazaAltozano1.jpg",
+        "imagen_secundaria": "assets/images/poi/plazaAltozano2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.1927777825667!2d-6.005453823569744!3d37.38527303450042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c14a1cc637b%3A0x939b4c1e524cf036!2sPl.%20del%20Altozano%2C%2041010%20Sevilla!5e0!3m2!1ses!2ses!4v1683100064905!5m2!1ses!2ses",
+        "redirectTo": "https://www.patrimoniodesevilla.es/la-plaza-del-altozano"
+    },
+    {
+        "titulo": "Calle Betis",
+        "subtitulo": "Paseo fluvial con vistas al Guadalquivir",
+        "descripcion": "La Calle Betis es una de las más emblemáticas de Sevilla y un lugar de paseo muy popular para los sevillanos y turistas. Se encuentra en el barrio de Triana, a orillas del río Guadalquivir, y ofrece unas vistas impresionantes del puente de Triana y de la Torre del Oro. Además de ser un lugar de paseo, la calle Betis cuenta con numerosos bares y restaurantes donde se puede disfrutar de la gastronomía local.",
+        "ubicacion": "Barrio de Triana",
+        "imagen_principal": "assets/images/poi/calleBetis1.jpg",
+        "imagen_secundaria": "assets/images/poi/calleBetis2.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.2772864706585!2d-6.002383323569828!3d37.38327423461454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c143381544d%3A0x3bddf0131d20ac60!2sC.%20Betis%2C%20Sevilla!5e0!3m2!1ses!2ses!4v1683099969456!5m2!1ses!2ses",
+        "redirectTo": "https://buendiatours.com/es/guias/sevilla/calle-betis"
+    },
+    {
+        "titulo": "Parque de los Príncipes",
+        "subtitulo": "Un espacio verde en el barrio de Los Remedios",
+        "descripcion": "El Parque de los Príncipes es un parque urbano situado en el barrio de Los Remedios, en Sevilla. Es un lugar popular para pasear, hacer deporte y disfrutar del aire libre en la ciudad. Cuenta con numerosas áreas verdes, bancos, juegos infantiles y pistas deportivas para el disfrute de los visitantes.",
+        "ubicacion": "Calle Virgen de Luján, 41011 Sevilla, España",
+        "imagen_principal": "assets/images/parques/parquePrincipes2.jpg",
+        "imagen_secundaria": "assets/images/parques/parquePrincipes1.jpg",
+        "googlemaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1585.3125111523266!2d-6.006966811056095!3d37.37504862451873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd126c389df2e865%3A0x9f9087127b536c38!2sParque%20de%20los%20Pr%C3%ADncipes!5e0!3m2!1ses!2ses!4v1683191838339!5m2!1ses!2ses",
+        "redirectTo": "https://visitasevilla.es/parque-de-los-principes/"
+    }
+]

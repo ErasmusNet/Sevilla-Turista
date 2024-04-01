@@ -1,0 +1,48 @@
+.scrolling-wrapper {
+    margin-top: 50%;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+  
+    .card {
+      display: inline-block;
+      
+    }
+   }
+
+  .texto {
+    text-align: center;
+    justify-content: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family:'Poppins', sans-serif;
+    text-shadow: 2px 2px whitesmoke;
+    
+  }
+
+  .conoce{
+    text-align: center;
+    justify-content: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family:'Poppins', sans-seri;
+    color: goldenrod;
+    text-shadow: 2px 2px black;
+  }
+
+  ion-card-content p {
+    justify-content: center;
+    padding-right: 5%;
+    font-family:'Poppins', sans-serif;
+    
+  }
+
+  .boton {
+    font-family:'Poppins', sans-seri;
+  }
+
+  ion-card{
+
+    --background:#b8b9b4;
+    opacity:0.95;
+  }
